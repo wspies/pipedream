@@ -4,7 +4,7 @@ import fs from "fs";
 
 export default {
   name: "get_tradelinq_products",
-  version: "0.0.15",
+  version: "0.0.23",
   key: "get_tradelinq_products",
   description: "",
   props: {
